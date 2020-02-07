@@ -32,6 +32,7 @@ halaman web
 
 • background-repeat → menentukan pengulangan background.
 
+
 Latihan 1
 
 ![Alt Text](https://github.com/necha28/CSS/blob/master/lat1.1.PNG)
@@ -44,6 +45,7 @@ width (untuk menentukan panjang elemen) dan height (untuk menentukan lebar
 atau tinggi element). Untuk menetukan jarak antara satu elemen dengan elemen
 yang lain dapat menggunakan margin, sedangakan untuk mengatur jarak antara
 border elemen dengan konten di dalamnya menggunakan padding.
+
 
 Latihan 2
 
@@ -74,6 +76,7 @@ digunakan yaitu left, center, right.
 
 • font-weight → mengatur ketebalan font.
 
+
 Latihan 3
 ![Alt Text](https://github.com/necha28/CSS/blob/master/lat3.1.PNG)
 ![Alt Text](https://github.com/necha28/CSS/blob/master/lat3.2.PNG)
@@ -91,6 +94,7 @@ menggunakan property berikut ini.
 • border-color → mengatur warna dari border.
 
 • border-radius → mengatur sudu dari border.
+
 
 Latihan 4
 
@@ -119,6 +123,7 @@ overflow. Overflow digunakan untuk memunculkan scroll bar jika konten pada
 sebuah elemen melebihi ukuran elemen tersebut. Berikut ini contoh penggunaan
 CSS position dan overflow.
 
+
 Latihan 5
 
 ![Alt Text](https://github.com/necha28/CSS/blob/master/lat5.PNG)
@@ -132,6 +137,7 @@ Modul CSS Tim Guru RPL | SMK Telkom Malang
 lihat pada bagian atas web, sedangkan navigasi bar sering kita jumpai pada bagian
 tepi halaman web. Berikut ini contoh kode CSS dan HTML untuk membuat sebuah
 menu bar dan navigasi bar.
+
 
 Latihan 6
 
@@ -153,11 +159,16 @@ tampilan tersebut dengan menerapkan beberapa property yaitu sebagai berikut.
 
 • Column-rule-color → menentukan warna garis pemisah antar kolom
 
+
 Latihan 7
 
 ![Alt Text](https://github.com/necha28/CSS/blob/master/lat7.PNG)
 
 # Image Gallery
+
+Pada halaman website banyak terdapat galeri foto yang ditampilkan untuk
+menunjukkan struktur organisasi atau profil pengembang web tersebut.
+
 
 Latihan 8
 
