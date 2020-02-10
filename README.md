@@ -126,7 +126,7 @@ CSS position dan overflow.
 
 Latihan 5
 
-![Alt Text](https://github.com/necha28/CSS/blob/master/lat5.PNG)
+![Alt Text](https://github.com/necha28/CSS/blob/master/lat5.1.PNG)
 
 # Navigation Bar
 
